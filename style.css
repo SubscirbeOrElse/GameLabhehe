@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: crimson;
+}
+#apps
+{margin: 20px;}
+img{width: 30%;}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
